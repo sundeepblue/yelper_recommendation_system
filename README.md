@@ -7,6 +7,7 @@ Chuan Sun
 [twitter.com/sundeepblue]
 
 Blog: https://sundeepblue.wordpress.com/2016/09/25/yelper-a-collaborative-filtering-based-recommendation-system/
+or here: https://nycdatascience.com/blog/student-works/capstone/yelper-collaborative-filtering-based-recommendation-system/
 
 This README file describes several major component of the "Yelper", a business recommendation system built mainly in Python using Spark framework.
 
